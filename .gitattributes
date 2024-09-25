@@ -1,5 +1,4 @@
-*.cu linguist-language=cuda
-*.muh linguist-language=cuda
+
 *.m linguist-language=Objective-C
 *.h linguist-language=Objective-C
 *.mm linguist-language=Objective-C++
